@@ -24,5 +24,7 @@ git config --global user.email "kripaupreti064@gmail.com"
 git config --global user.name "kripa"
 
 
+When cloing using ssh not https. Else there will be issue using  private public key appraoch 
 
 
+ git clone git@github.com:ku064/git_collab.git
