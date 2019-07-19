@@ -36,3 +36,5 @@ vim ~/.ssh/config
 git@github.com:kripau/git_collab.git
 
 git remote add origin git@github-second:kripau/git_collab.git
+
+change the setting file and the get the result accordingly
