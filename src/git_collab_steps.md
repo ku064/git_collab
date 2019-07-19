@@ -40,7 +40,7 @@ git remote add origin git@github-second:kripau/git_collab.git
 
 git remote add origin git@github-COMPANY:Company/testing.git
 
-
+# this is useful link so added
 
 https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
 
