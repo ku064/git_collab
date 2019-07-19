@@ -20,8 +20,7 @@ Host github.com
   User git
   IdentityFile ~/.ssh/ku064_rsa
 
-git config --global user.email "kripaupreti064@gmail.com"
-git config --global user.name "kripa"
+git config --global suser.name "kripa"
 
 
 When cloing using ssh not https. Else there will be issue using  private public key appraoch
@@ -35,6 +34,14 @@ vim ~/.ssh/config
 
 git@github.com:kripau/git_collab.git
 
+git remote rm origin
+
 git remote add origin git@github-second:kripau/git_collab.git
 
-change the setting file and the get the result accordingly
+git remote add origin git@github-COMPANY:Company/testing.git
+
+
+
+https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
+
+
