@@ -1,1 +1,3 @@
 This is a new feature from ks
+
+Second feature added. More detail info. :)
